@@ -8,7 +8,7 @@ Group:		X11/Applications
 Source0:	http://www.solutionm.com/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	63cf945a16a4dbf2bc240dff99354114
 Patch0:		%{name}-desktop.patch
-BuildRequires:	gtk+2-devel >= 2.0.3
+BuildRequires:	gtk+2-devel >= 1:2.0.3
 BuildRequires:	libgnomecanvas-devel >= 2.0.0
 BuildRequires:	libgnomeprintui-devel >= 2.2.0
 BuildRequires:	libgnomeui-devel >= 2.3.3.1-2
