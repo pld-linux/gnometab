@@ -55,7 +55,7 @@ export GCONF_DISABLE_MAKEFILE_SCHEMA_INSTALL=1
 %{__make} install \
 	DESTDIR=$RPM_BUILD_ROOT \
 	gnomemenudir=%{_desktopdir}
-	
+
 unset GCONF_DISABLE_MAKEFILE_SCHEMA_INSTALL
 
 #remove uneeded docs (installed via %doc)
