@@ -2,7 +2,7 @@ Summary:	Gnometab aims to be a WYSIWIG guitar tablature editor
 Summary(pl):	Gnometab - edytor WYSIWYG do tabulatur gitarowych
 Name:		gnometab
 Version:	0.7.4
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.solutionm.com/%{name}/%{name}-%{version}.tar.gz
@@ -11,7 +11,7 @@ Patch0:		%{name}-desktop.patch
 BuildRequires:	gtk+2-devel >= 2.0.3
 BuildRequires:	libgnomecanvas-devel >= 2.0.0
 BuildRequires:	libgnomeprintui-devel >= 2.2.0
-BuildRequires:	libgnomeui-devel >= 2.0.0
+BuildRequires:	libgnomeui-devel >= 2.3.3.1-2
 BuildRequires:	libxml2-devel
 Requires(post):	GConf2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
