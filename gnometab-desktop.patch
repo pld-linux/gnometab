@@ -1,0 +1,19 @@
+diff -urN gnometab-0.7.4.orig/gnometab.desktop.in gnometab-0.7.4/gnometab.desktop.in
+--- gnometab-0.7.4.orig/gnometab.desktop.in	Mon Apr 28 23:02:23 2003
++++ gnometab-0.7.4/gnometab.desktop.in	Mon Apr 28 23:17:31 2003
+@@ -1,10 +1,11 @@
+-
+ [Desktop Entry]
++Encoding=UTF-8
+ Name=Gnometab
++Name[pl]=Gnometab
+ Comment=Guitar tablature editor
++Comment[pl]=Edytor tabulatur gitarowych
+ Exec=gnometab
+-Icon=@PACKAGE_PIXMAPS_DIR@/gtab-icon.png
++Icon=gnometab/gtab-icon.png
+ Terminal=false
+-MultipleArgs=false
+ Type=Application
+-
++Categories=GNOME;Application;
