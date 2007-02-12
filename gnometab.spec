@@ -1,5 +1,5 @@
 Summary:	Gnometab aims to be a WYSIWIG guitar tablature editor
-Summary(pl):	Gnometab - edytor WYSIWYG do tabulatur gitarowych
+Summary(pl.UTF-8):   Gnometab - edytor WYSIWYG do tabulatur gitarowych
 Name:		gnometab
 Version:	0.7.4
 Release:	2
@@ -30,16 +30,16 @@ Gnometab does not attempt to be "smart", i.e., it does not know how
 many beats are in a measure, nor does it know an E chord from an Am
 chord. Instead, the emphasis has been on the appearance of the output.
 
-%description -l pl
-Gnometab ma byæ edytorem WYSIWYG to tabulatur. Mo¿liwo¶ci Gnometaba
-obejmuj± kopiowanie i wklejanie fragmentów tabulatur, bibliotekê
-akordów (któr± u¿ytkownik musi wype³niæ akordami), profesjonalnie
-wygl±daj±c± notacjê rytmu (jeszcze nie doskona³±), mo¿liwo¶æ tworzenia
-ró¿nych symboli specyficznych dla gitary (podci±ganie, legato) oraz,
-oczywi¶cie, czysto wygl±daj±ce wydruki w PostScripcie. Gnometab nie
-próbuje byæ "m±dry", tzn. nie wie, ile uderzeñ jest takcie, ani jak
-zrobiæ akord E z Am. Zamiast tego nacisk zosta³ po³o¿ony na wygl±d
-wyj¶cia.
+%description -l pl.UTF-8
+Gnometab ma byÄ‡ edytorem WYSIWYG to tabulatur. MoÅ¼liwoÅ›ci Gnometaba
+obejmujÄ… kopiowanie i wklejanie fragmentÃ³w tabulatur, bibliotekÄ™
+akordÃ³w (ktÃ³rÄ… uÅ¼ytkownik musi wypeÅ‚niÄ‡ akordami), profesjonalnie
+wyglÄ…dajÄ…cÄ… notacjÄ™ rytmu (jeszcze nie doskonaÅ‚Ä…), moÅ¼liwoÅ›Ä‡ tworzenia
+rÃ³Å¼nych symboli specyficznych dla gitary (podciÄ…ganie, legato) oraz,
+oczywiÅ›cie, czysto wyglÄ…dajÄ…ce wydruki w PostScripcie. Gnometab nie
+prÃ³buje byÄ‡ "mÄ…dry", tzn. nie wie, ile uderzeÅ„ jest takcie, ani jak
+zrobiÄ‡ akord E z Am. Zamiast tego nacisk zostaÅ‚ poÅ‚oÅ¼ony na wyglÄ…d
+wyjÅ›cia.
 
 %prep
 %setup -q
