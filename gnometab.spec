@@ -1,5 +1,5 @@
 Summary:	Gnometab aims to be a WYSIWIG guitar tablature editor
-Summary(pl.UTF-8):   Gnometab - edytor WYSIWYG do tabulatur gitarowych
+Summary(pl.UTF-8):	Gnometab - edytor WYSIWYG do tabulatur gitarowych
 Name:		gnometab
 Version:	0.7.4
 Release:	2
