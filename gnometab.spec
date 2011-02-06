@@ -67,7 +67,7 @@ rm -rf $RPM_BUILD_ROOT%{_prefix}/doc
 %gconf_schema_install
 
 %clean
-rm -fr $RPM_BUILD_ROOT
+rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
